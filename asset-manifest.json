@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RabbitNews/static/css/main.073c9b0a.css",
-    "main.js": "/RabbitNews/static/js/main.41d85330.js",
-    "static/js/787.4c026eef.chunk.js": "/RabbitNews/static/js/787.4c026eef.chunk.js",
-    "index.html": "/RabbitNews/index.html",
-    "main.073c9b0a.css.map": "/RabbitNews/static/css/main.073c9b0a.css.map",
-    "main.41d85330.js.map": "/RabbitNews/static/js/main.41d85330.js.map",
-    "787.4c026eef.chunk.js.map": "/RabbitNews/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/Sadi16/RabbitNews/static/css/main.073c9b0a.css",
+    "main.js": "/Sadi16/RabbitNews/static/js/main.7ef6b58a.js",
+    "static/js/787.4c026eef.chunk.js": "/Sadi16/RabbitNews/static/js/787.4c026eef.chunk.js",
+    "index.html": "/Sadi16/RabbitNews/index.html",
+    "main.073c9b0a.css.map": "/Sadi16/RabbitNews/static/css/main.073c9b0a.css.map",
+    "main.7ef6b58a.js.map": "/Sadi16/RabbitNews/static/js/main.7ef6b58a.js.map",
+    "787.4c026eef.chunk.js.map": "/Sadi16/RabbitNews/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.41d85330.js"
+    "static/js/main.7ef6b58a.js"
   ]
 }
