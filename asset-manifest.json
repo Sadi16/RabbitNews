@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RabbitNews/static/css/main.073c9b0a.css",
-    "main.js": "/RabbitNews/static/js/main.936ead54.js",
+    "main.js": "/RabbitNews/static/js/main.41d85330.js",
     "static/js/787.4c026eef.chunk.js": "/RabbitNews/static/js/787.4c026eef.chunk.js",
     "index.html": "/RabbitNews/index.html",
     "main.073c9b0a.css.map": "/RabbitNews/static/css/main.073c9b0a.css.map",
-    "main.936ead54.js.map": "/RabbitNews/static/js/main.936ead54.js.map",
+    "main.41d85330.js.map": "/RabbitNews/static/js/main.41d85330.js.map",
     "787.4c026eef.chunk.js.map": "/RabbitNews/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.936ead54.js"
+    "static/js/main.41d85330.js"
   ]
 }
